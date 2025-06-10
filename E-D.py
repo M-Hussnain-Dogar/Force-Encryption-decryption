@@ -268,3 +268,4 @@ def main():
     show_result_window(success_list, fail_list, key, elapsed_time, time.time() - start_time)
 if __name__ == "__main__":
     main()
+    input("Press Enter to continue: ")
