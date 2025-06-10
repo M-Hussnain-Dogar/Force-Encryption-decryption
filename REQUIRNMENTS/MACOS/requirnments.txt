@@ -1,0 +1,9 @@
+# Install Homebrew Python if not using system Python
+# brew install python  # if needed
+
+# Optionally install tkinter (usually comes with Python)
+brew install python-tk  # if tkinter is missing
+
+# Install dependencies
+python3 -m pip install --upgrade pip
+python3 -m pip install pycryptodome psutil pillow

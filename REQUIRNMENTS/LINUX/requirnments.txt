@@ -1,0 +1,8 @@
+# Update system and install tkinter if needed
+sudo apt update
+sudo apt install python3-tk -y
+
+# Install Python dependencies
+python3 -m pip install --upgrade pip
+python3 -m pip install pycryptodome psutil pillow
+python -m pip install --upgrade pip && python -m pip install pycryptodome psutil pillow
