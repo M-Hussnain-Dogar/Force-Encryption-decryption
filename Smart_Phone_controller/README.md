@@ -1,7 +1,6 @@
 """
 ADB Android Phone Control Tool
-Author: [Your Name]
-Date: [Optional]
+
 
 Description:
 This script enables remote control of an Android device via ADB (Android Debug Bridge). It supports connection over USB or Wi-Fi (via IP address) and offers an interactive terminal menu for the following features:
