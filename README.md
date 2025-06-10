@@ -1,7 +1,5 @@
 """
 Windows Folder File Encryptor/Decryptor with GUI Summary
-Author: [Your Name]
-Date: [Optional]
 
 Description:
 This script performs recursive encryption or decryption of all files within a specified folder using AES-256 encryption in CBC mode. It includes:
