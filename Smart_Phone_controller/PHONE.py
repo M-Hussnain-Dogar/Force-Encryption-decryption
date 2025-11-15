@@ -4,7 +4,7 @@ import time
 import keyboard
 
 # Set ADB path (wrapped in quotes to handle spaces)
-ADB_PATH = r'"D:\apps---\mobile tools\platform-tools-latest-windows\platform-tools\adb.exe"'
+ADB_PATH = r'path to your ADB.exe'
 IP_FILE = "last_ip.txt"  # File to store the last used IP address
 
 def send_command(command):
